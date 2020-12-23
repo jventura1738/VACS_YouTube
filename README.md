@@ -12,8 +12,8 @@ This is the Repository for the YouTube Channel: Ventura Academy (VAYT), one of t
 
 This is geared more towards Software Engineering.
 
-- [x] Starting out, terminal, 'Hello World!'
-- [ ] I/O, typing, variables.
+- [x] Starting out, terminal, 'Hello World!' [12/23/20]
+- [ ] I/O, typing, variables. [?]
 
 ## Python Beginner Tutorial Series
 
