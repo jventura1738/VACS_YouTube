@@ -1,4 +1,7 @@
 // This is a comment!
+// Justin Ventura [12/24/20]
+// Ventura Academy YT Computer Science
+// -> github.com/jventura1738/VACS_YoutTube
 
 #include <iostream>  // This allows us to use cout, endl.
 
@@ -15,5 +18,5 @@ int main() {
 
   cout << "Hello World!" << endl;
 
-  return 0;  // This is not necessary in C++, but some use it.
+  return 0;  // This is not necessary in C++, used in C however.
 }
