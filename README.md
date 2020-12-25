@@ -1,6 +1,6 @@
 # Ventura Academy - Computer Science YouTube Repository
 
-*by Justin Ventura, Unversity Undergraduate*
+*by Justin Ventura, University Undergraduate*
 
 updated: 12/18/20
 
