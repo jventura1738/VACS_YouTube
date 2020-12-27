@@ -10,7 +10,7 @@ int main() {
 
   // Floats & Doubles:
   float pi = 3.14f;
-  double e = 2.71d;
+  double e = 2.71f;
   cout << "Pi: " << pi << ", e: " << e << "\n";
   
   // Characters:
@@ -18,7 +18,7 @@ int main() {
   cout << "Letter grade: " << grade << "\n";
   
   // Booleans (bool):
-  bool isPassing = True;
+  bool isPassing = true;  // NOTE: should print a 1 for true.
   cout << "This is a passing grade: " << isPassing << "\n";
   
   // Strings (strings of characters!):
