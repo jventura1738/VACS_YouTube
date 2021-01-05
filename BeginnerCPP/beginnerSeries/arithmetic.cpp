@@ -31,7 +31,7 @@ int main() {
 
     cout << "Our total profit: " << profit1 << "\n";
 
-    // Now for the second part of the question...
+     // Now for the second part of the question...
     numberOfSales = 200;
     tips = 22.5;
     float taxRate = 0.25;
