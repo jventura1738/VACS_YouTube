@@ -9,7 +9,7 @@ using namespace std;  // Use this to drop std:: before cout.
 
 // This is the 'main function' which will run our code!
 int main() {
-  /*
+  /**
   * This is a block comment!
   *
   * Below we will print 'Hello World!' to the terminal
