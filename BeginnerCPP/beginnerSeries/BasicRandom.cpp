@@ -40,6 +40,8 @@ int main() {
      * This may seem useless right now, but in the future doing something
      * like this will become very helpful.
     */
+    srand(time(NULL));  // reset the seed for new sequences generated!
+
     int sampleSize, low, high;
     cout << "How many random numbers to be generated? ";
     cin >> sampleSize;
