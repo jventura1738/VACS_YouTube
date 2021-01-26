@@ -18,7 +18,7 @@ This is geared more towards Software Engineering.
 - [x] Control Structures. [01/15/21]
 - [x] RNG C-style. [1/20/21]
 - [x] Strings Intro. [1/24/21]
-- [ ] Introduction to Arrays [01/25/21?]
+- [ ] Introduction to Arrays [01/26/21]
 
 ## Python Beginner Tutorial Series
 
