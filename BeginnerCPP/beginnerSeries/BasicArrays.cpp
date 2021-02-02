@@ -66,6 +66,30 @@ int main() {
     }
     cout << "\n";
 
+    /**
+     * Next challenge: write code that will print out index which
+     * corresponds to the largest value in the array.  Assume 
+     * there will be no duplicates nor negative numbers.
+     *
+     * Ex. a = [5 2 9 12 6 11 4 1]
+     * output: 3
+    */
+
+    int a[8] = {5, 2, 9, 12, 6, 11, 4, 1};
+
+    int max = 0;
+    for (int i = 1; i < 8; i++) {
+
+        if (a[i] > a[max]) {
+
+            max = i;
+
+        }
+
+    }
+
+    cout << max << endl;
+
 
     return 0;
 }
