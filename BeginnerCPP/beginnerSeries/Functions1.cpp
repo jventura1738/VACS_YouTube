@@ -40,10 +40,10 @@ void swap(int &a, int &b);
 
 int main () {
 
-    // HelloWorld();
-    // int z = add(1, 2, 3);
-    // cout << z << endl;
-    // cout << add(1, 2, 3) << endl;
+    HelloWorld();
+    int z = add(1, 2, 3);
+    cout << z << endl;
+    cout << add(1, 2, 3) << endl;
 
     int x = 5;
     int y = 6;
