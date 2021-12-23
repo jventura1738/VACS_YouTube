@@ -10,8 +10,6 @@ This is the Repository for the YouTube Channel: Ventura Academy (VAYT), one of t
 
 ## C++ Beginner Tutorial Series
 
-This is geared more towards Software Engineering.
-
 - [x] Starting out, terminal, 'Hello World!' [12/23/20]
 - [x] I/O, typing, variables. [01/12/21]
 - [x] Operators & Expressions. [01/14/21]
@@ -21,8 +19,6 @@ This is geared more towards Software Engineering.
 - [ ] Introduction to Arrays [01/26/21]
 
 ## Python Beginner Tutorial Series
-
-This is geared more towards Data Science & Mathematical Programming.
 
 - [x] Hello World! [01/12/15?]
 - [ ] Data, Control Flow, IO [?]
