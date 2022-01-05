@@ -10,15 +10,24 @@ This is the Repository for the YouTube Channel: Ventura Academy (VAYT), one of t
 
 ## C++ Beginner Tutorial Series
 
-- [x] Starting out, terminal, 'Hello World!' [12/23/20]
-- [x] I/O, typing, variables. [01/12/21]
-- [x] Operators & Expressions. [01/14/21]
-- [x] Control Structures. [01/15/21]
-- [x] RNG C-style. [1/20/21]
-- [x] Strings Intro. [1/24/21]
-- [ ] Introduction to Arrays [01/26/21]
+- [x] Starting Out, Terminal, 'Hello World!'
+- [x] I/O, Typing, Variables
+- [x] Operators & Expressions
+- [x] Control Structures
+- [x] RNG C-style
+- [x] Strings Intro
+- [x] Introduction to Arrays
+- [x] References & Pointers
+- [x] Dynamic Memory Allocation
+- [x] Functions (Overloads Too)
+- [x] Structures AKA structs
+- [ ] Multidimensional Arrays
+- [ ] Object Oriented Programming
 
-## Python Beginner Tutorial Series
+## Data Structures and Algorithms Series (C++ and Python)
 
-- [x] Hello World! [01/12/15?]
-- [ ] Data, Control Flow, IO [?]
+- [ ] 'BIG O NOTATION' (Asymptotic Analysis, Linear Search, Insertion Sort)
+- [ ] RECURSION (Fibonacci, Palindrome, Binary Search)
+- [ ] ARRAYS (Remove Dups, Merge Sort, Trees)
+- [ ] LINKED LISTS
+- [ ] More...
