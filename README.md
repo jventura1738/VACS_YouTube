@@ -20,7 +20,8 @@ This is the Repository for the YouTube Channel: Ventura Academy (VAYT), one of t
 - [x] References & Pointers
 - [x] Dynamic Memory Allocation
 - [x] Functions (Overloads Too)
-- [x] Structures AKA structs
+- [x] Structures AKA struct
+- [ ] File I/O
 - [ ] Multidimensional Arrays
 - [ ] Object Oriented Programming
 
