@@ -1,0 +1,8 @@
+7
+Justin, Computer Science, 3.92
+Jenna, Undeclared, 3.7
+Joe, Marketing, 3.25
+Ben, English, 3.42
+Mike, Biology, 2.95
+Dixie, Mathematics, 4.0
+Jack, Exercise Science, 3.1
