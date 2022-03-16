@@ -1,3 +1,4 @@
 test/
 .vscode/settings.json
 mini_algos/
+*.DS_Store
