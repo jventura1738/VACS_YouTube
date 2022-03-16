@@ -2,7 +2,7 @@
 
 *by Justin Ventura, University Undergraduate*
 
-updated: 12/18/20
+updated: 03/16/22
 
 ## Repository Details:
 
@@ -21,7 +21,7 @@ This is the Repository for the YouTube Channel: Ventura Academy (VAYT), one of t
 - [x] Dynamic Memory Allocation
 - [x] Functions (Overloads Too)
 - [x] Structures AKA struct
-- [ ] File I/O
+- [X] File I/O
 - [ ] Multidimensional Arrays
 - [ ] Object Oriented Programming
 
